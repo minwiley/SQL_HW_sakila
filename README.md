@@ -1,4 +1,7 @@
 # SQL_HW_sakila
+
+![20td91](https://user-images.githubusercontent.com/41865917/47598629-97b95100-d96c-11e8-81e5-f6390842ee4b.jpg)
+
 # Homework Assignment
 
 ## Instructions

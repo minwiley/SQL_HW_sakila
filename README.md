@@ -35,3 +35,6 @@
 * 8a. In your new role as an executive, you would like to have an easy way of viewing the Top five genres by gross revenue. Use the solution from the problem above to create a view. If you haven't solved 7h, you can substitute another query to create a view.
 * 8b. How would you display the view that you created in 8a?
 * 8c. You find that you no longer need the view `top_five_genres`. Write a query to delete it.
+
+<img width="285" alt="elf_sql_meme" src="https://user-images.githubusercontent.com/41865917/47598638-c20b0e80-d96c-11e8-88d6-c3a5636cdca8.PNG">
+
